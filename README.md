@@ -1,6 +1,19 @@
-A PERN stack todo app taught by Henry - youtube channel The Stoic Programmers.
+# Pern Tdo
 
-To run this app:
+A simple PERN stack todo app taught by Henry - youtube channel The Stoic Programmers.
+
+# Preview
+
+<img src="./resources/pern-todo.png"/>
+
+## Tech stack
+
+- [React](https://reactjs.org/)
+- [Express.js](https://expressjs.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+## To run this app
+
 1. Clone this repo
 2. Type cd pern-todo/client/
 3. Type npm install
